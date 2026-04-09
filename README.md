@@ -183,12 +183,10 @@ python get_vendor_summary.py
 #    → Vendor_Performance_Analysis.ipynb
 ```
 
-> ⚠️ `inventory.db` (~2GB) is excluded from this repo via `.gitignore`. Regenerate it locally by running steps 4 & 5 above.
 
----
 
 ## 👤 Author
 
-**Franko**
+**Faisal Khan**
 Data Science & AI | Finance & Economics Background
 [LinkedIn](#) | [GitHub](#)
