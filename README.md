@@ -79,10 +79,7 @@ vendor-performance-analysis/
 ├── Data/                              # Raw source data (6 CSV files)
 │   ├── begin_inventory.csv
 │   ├── end_inventory.csv
-│   ├── purchases.csv
-│   ├── purchase_prices.csv
-│   ├── vendor_invoice.csv
-│   └── sales.csv
+│   ├── purchase_prices.csv           # Other csv files are stored in drive (scroll down to access the link)
 │
 ├── notebooks/
 │   ├── Exploratory_Data_Analysis.ipynb        # Data validation & summary pipeline
