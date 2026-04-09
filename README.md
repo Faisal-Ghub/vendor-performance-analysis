@@ -76,7 +76,7 @@ Due to GitHub file size limitations, the dataset is hosted externally also.
 ```
 vendor-performance-analysis/
 │
-├── dashboard/                         #Oower BI dashboard file
+├── dashboard/                         # Power BI dashboard file
 │          
 ├── Data/                              # Raw source data (6 CSV files)
 │   ├── begin_inventory.csv
