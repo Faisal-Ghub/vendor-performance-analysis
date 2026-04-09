@@ -62,6 +62,15 @@ Effective inventory and sales management are critical for optimizing profitabili
 
 ---
 
+## Dataset: 
+
+https://drive.google.com/drive/folders/1yvBiZ1MNFTrJWgeoY53eLVlOKnxcOBDe
+
+Due to GitHub file size limitations, the dataset is hosted externally.
+
+--- 
+
+
 ## 🗂️ Project Structure
 
 ```
