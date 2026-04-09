@@ -66,7 +66,7 @@ Effective inventory and sales management are critical for optimizing profitabili
 
 https://drive.google.com/drive/folders/1yvBiZ1MNFTrJWgeoY53eLVlOKnxcOBDe
 
-Due to GitHub file size limitations, the dataset is hosted externally.
+Due to GitHub file size limitations, the dataset is hosted externally also.
 
 --- 
 
@@ -92,7 +92,6 @@ vendor-performance-analysis/
 ├── get_vendor_summary.py              # SQL aggregation + feature engineering + DB ingest
 ├── vendor_sales_summary.xlsx          # Final clean dataset exported for Power BI
 │
-├── .gitignore                         # Excludes inventory.db (2GB), Logs/, __pycache__
 └── README.md
 ```
 
