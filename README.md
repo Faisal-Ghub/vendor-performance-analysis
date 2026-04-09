@@ -76,10 +76,15 @@ Due to GitHub file size limitations, the dataset is hosted externally also.
 ```
 vendor-performance-analysis/
 │
+├── dashboard/                         #Oower BI dashboard file
+│          
 ├── Data/                              # Raw source data (6 CSV files)
 │   ├── begin_inventory.csv
 │   ├── end_inventory.csv
 │   ├── purchase_prices.csv           # Other csv files are stored in drive (scroll down to access the link)
+│
+├── images/
+│    ├── dashboard/ CI/ Unit Pirce/ Heatmap
 │
 ├── notebooks/
 │   ├── Exploratory_Data_Analysis.ipynb        # Data validation & summary pipeline
