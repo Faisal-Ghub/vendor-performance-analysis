@@ -188,5 +188,6 @@ python get_vendor_summary.py
 ## 👤 Author
 
 **Faisal Khan**
+
 Data Science & AI | Finance & Economics Background
-[LinkedIn](#) | [GitHub](#)
+
