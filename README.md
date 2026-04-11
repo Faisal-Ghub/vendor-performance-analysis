@@ -16,6 +16,7 @@ Effective inventory and sales management are critical for optimizing profitabili
 
 ---
 
+
 ## 📊 Key Business Metrics (Dashboard Highlights)
 
 | Metric | Value |
