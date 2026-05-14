@@ -105,7 +105,7 @@ vendor-performance-analysis/
 | Layer | Tools |
 |---|---|
 | Data Ingestion | Python, pandas, SQLAlchemy, SQLite |
-| Data Storage | SQLite (`inventory.db`) |
+| Data Storage | SQLite3(`inventory.db`) |
 | Data Processing | pandas, NumPy |
 | Statistical Analysis | SciPy (`ttest_ind`, confidence intervals) |
 | Visualization (EDA) | Matplotlib, Seaborn |
