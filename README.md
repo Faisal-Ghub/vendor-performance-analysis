@@ -160,13 +160,13 @@ The dashboard covers:
 - **Top Brands by Sales** — Horizontal bar chart
 - **Low Performing Vendors** — Funnel chart (by Stock Turnover ratio)
 - **Low Performing Brands** — Scatter plot (Sales vs Profit Margin)
-- **Filters:** Vendor Name, Brand Description
+- **Filters:** Vendor Name, Brand Descriptio
 
 ---
 
 ## 🚀 How to Run
 
-**Prerequisites:** Python 3.8+, pip
+**Prerequisites:** Python 3.8+, pip 
 
 ```bash
 # 1. Clone the repository
