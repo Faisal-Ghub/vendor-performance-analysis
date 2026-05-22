@@ -160,7 +160,7 @@ The dashboard covers:
 - **Top Brands by Sales** — Horizontal bar chart
 - **Low Performing Vendors** — Funnel chart (by Stock Turnover ratio)
 - **Low Performing Brands** — Scatter plot (Sales vs Profit Margin)
-- **Filters:** Vendor Name, Brand Descriptio
+- **Filters:** Vendor Name, Brand Description
 
 ---
 
